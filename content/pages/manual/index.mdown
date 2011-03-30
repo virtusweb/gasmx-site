@@ -1,0 +1,9 @@
+# Manual de usuario
+
+* [Configuración][configuracion]
+* [Cargas de gas][cargas-de-gas]
+* [Captura de lecturas][captura-de-lecturas]
+
+[configuracion]: manual/configuracion
+[cargas-de-gas]: manual/cargas-de-gas
+[captura-de-lecturas]: manual/captura-de-lecturas

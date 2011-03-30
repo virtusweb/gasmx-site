@@ -1,0 +1,5 @@
+# Configuración
+
+* [Rutas][rutas]
+
+[rutas]: configuracion/rutas
