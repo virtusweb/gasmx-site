@@ -1,5 +1,9 @@
 # Configuración
 
 * [Rutas][rutas]
+* [Edificios][edificios]
+* [Departamentos][departamentos]
 
 [rutas]: configuracion/rutas
+[edificios]: configuracion/edificios
+[departamentos]: configuracion/departamentos
