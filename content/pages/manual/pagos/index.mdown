@@ -1,0 +1,5 @@
+# Pagos
+
+* [Pagos referenciados][pagos-referenciados]
+
+[pagos-referenciados]: pagos/pagos-referenciados

@@ -1,0 +1,13 @@
+# Pagos referenciados
+
+Cuando el volúmen de pagos es muy alto, es recomendable utilizar el sistema
+de pagos referenciados.
+
+GasMX asigna automáticamente un número de referencia único para cada 
+departamento de acuerdo con las especificaciones del banco. Este número de 
+referencia se imprime en el recibo para que el cliente acuda a pagar a la 
+ventanilla del banco.
+
+El banco genera diariamente un archivo con los pagos que recibió. Ese archivo 
+se procesa en GasMX y se asignan los pagos a los estados de cuenta de cada 
+cliente.
