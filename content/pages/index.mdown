@@ -1,0 +1,11 @@
+GasMX es un sistema web para administrar la cobranza por el consumo de gas en condominios o centros comerciales.
+
+### Beneficios
+
+* Permite un control preciso de los cargos y los pagos ya que se tiene un estado de cuenta actualizado automáticamente para cada uno de los clientes.
+* Se minimizan los errores de captura, ya que se detecta cuando algún dato no es congruente con la información histórica de cada cliente.
+* Se disminuye el tiempo de captura de los pagos ya que es posible importar la información de los archivos generados por el banco.
+* No es necesario invertir en equipo de cómputo adicional ni peocuparse por los respaldos de información.
+
+Si requiere de mas información por favor envíe un mensaje a <a href="mailto:info@gasmx.com">info@gasmx.com</a>
+
