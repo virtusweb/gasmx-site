@@ -11,7 +11,9 @@ module Nesta
     # use Rack::Static, :urls => ["/gasmx"], :root => "themes/gasmx/public"
 
     helpers do
-      # Add new helpers here.
+      def breadcrumb_label(page)
+        (page.abspath == '/') ? 'Inicio' : page.heading
+      end
     end
 
     # Add new routes here.
