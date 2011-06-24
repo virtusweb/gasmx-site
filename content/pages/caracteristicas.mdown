@@ -1,0 +1,18 @@
+# Características
+
+* Captura de cargas
+* Captura de lecturas
+* Cálculo de cargos por consumo de gas
+* Captura de pagos
+* Importación de archivos de pagos del banco
+* Actualización de estados de cuenta
+* Generación de recibos impresos
+* Configuración de rutas, edificios y departamentos
+* Configuración de precio de gas
+* Captura y seguimiento de reportes de los clientes
+* Consulta de estados de cuenta por los clientes
+
+
+
+
+
