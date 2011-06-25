@@ -1,0 +1,4 @@
+# Precios
+
+GasMX se cobra bajo un esquema de renta mensual de acuerdo con el número de 
+recibos que se generen.

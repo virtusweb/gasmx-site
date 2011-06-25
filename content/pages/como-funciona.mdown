@@ -1,0 +1,9 @@
+# ¿Cómo funciona?
+
+Para utilizar GasMX lo único que se necesita es una computadora con acceso a 
+Internet.
+
+GasMX se encuentra hospedado en nuestros servidores, nosotros nos encargamos de
+que funcione correctamente y realizamos respaldos de la información diariamente.
+
+
